@@ -1,4 +1,4 @@
-# Computer-Network-Lab-1
+# Computer-Network-Lab
 实验一：WireShark的使用
 
 实验二：网络爬虫的编写
